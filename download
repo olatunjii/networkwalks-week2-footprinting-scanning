@@ -1,0 +1,9 @@
+# Never commit raw, unredacted evidence or raw tool output
+raw/
+unredacted/
+*.raw.txt
+*_myHarvesters_Result.txt
+*.mtgl
+*.mtgx
+.DS_Store
+Thumbs.db
